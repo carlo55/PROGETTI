@@ -1,3 +1,7 @@
 # PROGETTI
-repository per tutti i progetti
-aggiornato oggi 20.08
+questo è solo un elenco di progetti non ancora definiti:
+una volta avviati si deve creare:
+- Repository specifica per il progetto
+- Aggiungere item nella sezione progetti di GitHub Progetti
+
+- 
